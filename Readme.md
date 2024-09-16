@@ -16,4 +16,22 @@ This project allows users to interact with PDF documents by asking questions usi
 ```bash
 git https://github.com/Shreyas250503/PDF-GPT-Document-Interaction-System.git
 cd GEMINI_APP
+```
+### 2. Install the required dependencies:
+```bash
+pip install -r requirements.txt
+```
 
+### 3. Set up environment variables:
+Create a .env file in the root directory.
+Add your Google API key to the .env file:
+
+```bash
+GOOGLE_API_KEY=your_google_api_key_here
+```
+
+### 4. Run the Streamlit application:
+
+```bash
+streamlit run app.py
+```
