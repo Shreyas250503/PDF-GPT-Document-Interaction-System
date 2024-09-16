@@ -39,4 +39,4 @@ streamlit run app.py
 
 ![Project Architecture Diagram](./images/Project_img.png)
 
-### Thanks for reading!! 🥺
+## Thanks for reading!! 🥺
