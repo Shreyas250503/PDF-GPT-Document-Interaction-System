@@ -35,3 +35,5 @@ GOOGLE_API_KEY=your_google_api_key_here
 ```bash
 streamlit run app.py
 ```
+### Interface Demo
+![Project Architecture Diagram](./images/Project_img.png)
