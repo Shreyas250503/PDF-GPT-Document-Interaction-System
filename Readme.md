@@ -38,3 +38,5 @@ streamlit run app.py
 ## Interface Demo
 
 ![Project Architecture Diagram](./images/Project_img.png)
+
+### Thanks for reading!! 🥺
